@@ -1,2 +1,2 @@
-# Wedproject
+# Webproject
 web development
